@@ -1,3 +1,6 @@
+AQUI ESTA ALGUMAS RESPOSTAS TEORICAS QUE CONSEGUI RESPONDER!!!!!
+
+
 #Qual a saída do código? 
 
 Se por exemplo o usuário digitar: 
@@ -85,4 +88,5 @@ do while :
 Primeiro executa 
 Depois verifica 
 Executa pelo menos 1 vez 
+
 
