@@ -1,21 +1,25 @@
 #Qual a saída do código? 
 
 Se por exemplo o usuário digitar: 
+
 5 11: 
 a = 5 
 b = 11 
+
 A condição: 
 a > b || !  (a > 0) 
 fica: 
 5 > 11 || ! (5 > 0) 
 false || false 
 false 
+
 Então executa o else: 
 c = (float)(a / b) 
+
 Mas a e b são inteiros, então: 
 5 / 11 = 0 
-Logo: 
 c = 0 
+
 Saída: 
 0.00
 
@@ -81,3 +85,4 @@ do while :
 Primeiro executa 
 Depois verifica 
 Executa pelo menos 1 vez 
+
